@@ -1,0 +1,6 @@
+Overall Mean Square Error: 0.063873 
+
+Mean Square Error for Engagement level 0: 0.257332 
+Mean Square Error for Engagement level 1: 0.048914 
+Mean Square Error for Engagement level 2: 0.015896 
+Mean Square Error for Engagement level 3: 0.153977 
