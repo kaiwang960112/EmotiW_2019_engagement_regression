@@ -3,3 +3,4 @@
                               Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
                                          {kai.wang, da.guo, xj.peng, yu.qiao}@siat.ac.cn
 
+![image](https://github.com/kaiwang960112/EmotiW_2019_engagement_regression/raw/master/figs/icmi_task2_pipeline.png)
